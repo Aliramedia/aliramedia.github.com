@@ -1,3 +1,5 @@
+@import url(//fonts.cdnfonts.com/css/gilroy-bold);
+
 .navbar {
   font-family: "Gilroy-Bold", sans-serif !important;
   padding: 50px 20px;
@@ -7,8 +9,4 @@
   padding: 230px 20px;
   background-color: #121212;
   font-family: "Gilroy-Bold", sans-serif !important;
-}
-
-.p {
-  font-family: "Hind Siliguri", sans-serif !important;
 }
