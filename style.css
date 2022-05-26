@@ -1,12 +1,12 @@
-@import url(//fonts.cdnfonts.com/css/gilroy-bold);
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
 
 .navbar {
-  font-family: "Gilroy-Bold", sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
   padding: 50px 20px;
 }
 
 .jumbotron {
   padding: 230px 20px;
-  background-color: #121212;
-  font-family: "Gilroy-Bold", sans-serif !important;
+  background-color: #212121;
+  font-family: "Poppins", sans-serif !important;
 }
