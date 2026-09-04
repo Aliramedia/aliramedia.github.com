@@ -2,7 +2,7 @@
 
 A modern, responsive website built with Next.js 14 and Tailwind CSS.
 
-## 🚀 Features
+## 🚀 Features 🔥
 
 - **Next.js 14** - Modern React framework with App Router
 - **Tailwind CSS** - Utility-first CSS framework
